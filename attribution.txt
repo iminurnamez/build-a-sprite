@@ -1,0 +1,20 @@
+LICENSES
+
+CC0            https://creativecommons.org/publicdomain/zero/1.0/legalcode
+CC-BY 2.0   https://creativecommons.org/licenses/by/2.0/legalcode
+CC BY 3.0    http://creativecommons.org/licenses/by/3.0/legalcode
+
+
+GRAPHICS
+
+Spritesheets created from 
+http://opengameart.org/content/pixel-people http://opengameart.org/content/pixel-people-extras-01 http://opengameart.org/content/pixel-people-extras-2
+Author: http://opengameart.org/users/tokyogeisha
+License: CC0
+
+GUI assets were created by yours truly and are licensed as CC0.
+
+CODE
+
+All code is public domain.
+
